@@ -3,5 +3,5 @@
 It uses es6, run with
 
 ```
-node --experimental-modules index.mjs`
+node --experimental-modules index.mjs
 ```
